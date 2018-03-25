@@ -53,5 +53,8 @@ class Student
     song
   end
 
+  def new_from_db
+
+  end
 
 end
